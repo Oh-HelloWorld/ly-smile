@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\Users\Smile\Workspaces\MyEclipse 10\ly-smile\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2925268243.index
+3638578392.index
+2560441686.index
+2489742911.index

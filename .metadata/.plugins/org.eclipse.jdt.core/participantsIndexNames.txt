@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+C:\Users\Smile\Workspaces\MyEclipse 10\ly-smile\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1409450202.index
+\myblog\src

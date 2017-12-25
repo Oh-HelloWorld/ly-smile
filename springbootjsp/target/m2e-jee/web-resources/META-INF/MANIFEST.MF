@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: com.smile
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: springboot-jsp
+Build-Jdk: 1.6.0_13
+Built-By: Smile
+Created-By: Maven Integration for Eclipse
+
